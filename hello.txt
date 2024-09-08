@@ -9,5 +9,7 @@ chamiiiiiii!!ll
 champion!!!
 ksadjl
 dkwptdmfk
+<<<<<<< HEAD
 master
-
+=======
+>>>>>>> beat
